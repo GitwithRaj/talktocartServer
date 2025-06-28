@@ -4,7 +4,7 @@
   "description": "Standalone JSON server for TalkToCart",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "npx json-server --watch db.json --port 10000 --static false"
   },
   "devDependencies": {
     "json-server": "^1.0.0-beta.3"
