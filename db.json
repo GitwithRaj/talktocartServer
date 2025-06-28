@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "0e90",
+      "username": "rajuphsp140721@gmail.com",
+      "password": "raj@1234"
+    },
+    {
+      "id": "7d1f",
+      "username": "sds",
+      "password": "dfd"
+    }
+  ],
+  "carts": [
+    {
+      "id": "024c",
+      "userId": "0e90",
+      "items": {
+        "shoes": 1,
+        "pants": 1,
+        "tshirt": 2,
+        "socks": 2,
+        "watch": 2,
+        "sweater": 3,
+        "shirt": 1
+      }
+    },
+    {
+      "id": "625c",
+      "userId": "0e90",
+      "items": {}
+    }
+  ]
+}
